@@ -23,4 +23,4 @@ While we aim to provide a secure app, please note that no method of electronic s
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the app.
 You are advised to review this Privacy Policy periodically for any changes.
 8. Contact Information
-If you have questions or concerns about this Privacy Policy, please contact us at erwin.foekema@gmail.com.
+If you have questions or concerns about this Privacy Policy, please contact us at soccerbud.app@gmail.com.
